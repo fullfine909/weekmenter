@@ -1,0 +1,30 @@
+# Project
+input/checkpoint/sam_*
+src/segment_anything
+src/weekmenter.egg-info
+.ignore/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment and variables
+.env
+venv/
+*.egg-info/
+
+# Test and coverage
+tox_output/
+.tox/
+.coverage
+coverage.xml
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+src/Template.project.egg-info/

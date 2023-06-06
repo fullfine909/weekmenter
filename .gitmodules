@@ -1,0 +1,3 @@
+[submodule "src/my_utils"]
+	path = src/my_utils
+	url = git@gitlab.com:fullfine_utils/my_utils.git

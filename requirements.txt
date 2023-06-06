@@ -1,0 +1,15 @@
+# BOT
+python-telegram-bot
+requests
+# SAM-META
+torch
+torchvision
+torchaudio
+#--index-url https://download.pytorch.org/whl/cpu
+numpy
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+# download also the models and place them on input/checkpoints
+# https://github.com/facebookresearch/segment-anything#model-checkpoints

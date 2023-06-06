@@ -1,0 +1,10 @@
+1. read tests/60_MASKS/colors_60_48.csv
+2. save colors_dict bin with corresponding masks
+
+area mask 350x200
+area img  4000x3000
+ratio 170
+
+area mask 350x200
+area img  4000x2225
+ratio 170
